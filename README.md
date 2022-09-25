@@ -1,9 +1,9 @@
+https://zainkhawaja98.github.io/portfolio/
 # Portfolio
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
+This website was created in order for me to display my work to employers. It will show what all the previous websites I have created and will link them to my completed projects. It solves the problem of letting future companies the work I am capable of and what I can provide to them. I learned how to make my own website without source code and building a website from the ground. 
 
 
 ## Installation
@@ -12,14 +12,11 @@ N/A
 
 ## Usage
 
+In order to use the website, click on any of the three navigation bars at the top to take you to the corresponding information. Click on the images of my previous work to be taken directly to its deployed website. Change the size of the website or use different devices to ensure the website will scale accordingly. 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
